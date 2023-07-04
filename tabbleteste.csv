@@ -1,0 +1,39 @@
+adição;;;;;
+a;b;retorno;;;
+3;5;8;;;
+;;;;;
+multiplicação;;;;;
+resultado;index;index < a;a;b;retorno
+0;0;true;4;6;24
+6;1;true;;;
+12;2;true;;;
+18;3;true;;;
+24;4;false;;;
+;;;;;
+potencia;;;;;
+"resultado ";index;index < b;a;b;retorno
+1;0;true;3;4;81
+3;1;true;;;
+9;2;true;;;
+27;3;true;;;
+81;4;false;;;
+;;;;;
+fatorial;;;;;
+resultado;index;index < a;a;retorno;
+1;1;true;5;120;
+2;2;true;;;
+6;3;true;;;
+24;4;true;;;
+120;5;false;;;
+;;;;;
+fibonacci;;;;;
+numero anterior;"numero atual ";proximo numero;index;index < 7;retorno
+0;1;2;1;true;13
+1;1;1;2;true;
+1;2;2;3;true;
+2;3;3;4;true;
+3;5;5;5;true;
+5;8;8;6;true;
+8;13;13;7;false;
+;;;;;
+;;;;;
